@@ -24,7 +24,7 @@ const About = () => {
                         </div>
                         <div>
                             <p className='text-4xl font-medium text-gray-800'>25+</p>
-                            <p>Ongoing Projects</p>
+                            <p>On Going Projects</p>
                         </div>
                     </div>
                     <p className='my-10 max-w-lg'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
